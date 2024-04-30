@@ -19,7 +19,6 @@ export const GetOrdersViewModel = () => {
   };
 
   return {
-    GetOrders,
     orders,
   };
 };
